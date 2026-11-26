@@ -1,0 +1,6 @@
+{
+  "name": "经纬治世 — 国家内政模拟终端",
+  "description": "轻量级单机国家管理与内政耦合模拟游戏，融合人口调配、六维制衡、时代演进、法案科技与突发事件抉择。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
